@@ -10,7 +10,7 @@ Project Structure:
 └── README.md           # You're Here!
 
 Setup in Bash:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/peterpitrun-ui/library-manager.git
 cd your-repo-name
 python -m venv venv
 source venv/Scripts/activate
